@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\bin\Debug\net10.0\ConsoleAppSobreCarga.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\bin\Debug\net10.0\ConsoleAppSobreCarga.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\bin\Debug\net10.0\ConsoleAppSobreCarga.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\bin\Debug\net10.0\ConsoleAppSobreCarga.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\bin\Debug\net10.0\ConsoleAppSobreCarga.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\refint\ConsoleAppSobreCarga.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleAppSobreCarga.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ref\ConsoleAppSobreCarga.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppSobreCarga\ConsoleAppSobreCarga\obj\Debug\net10.0\ConsoleA.D4326627.Up2Date
