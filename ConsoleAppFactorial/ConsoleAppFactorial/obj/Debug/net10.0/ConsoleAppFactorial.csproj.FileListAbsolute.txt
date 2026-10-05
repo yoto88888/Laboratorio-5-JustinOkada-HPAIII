@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\net10.0\ConsoleAppFactorial.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\net10.0\ConsoleAppFactorial.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\net10.0\ConsoleAppFactorial.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\net10.0\ConsoleAppFactorial.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\net10.0\ConsoleAppFactorial.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\refint\ConsoleAppFactorial.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleAppFactorial.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ref\ConsoleAppFactorial.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\net10.0\ConsoleA.BC870954.Up2Date
