@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\bin\Debug\net10.0\ConsoleAppDiccionario.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\bin\Debug\net10.0\ConsoleAppDiccionario.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\bin\Debug\net10.0\ConsoleAppDiccionario.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\bin\Debug\net10.0\ConsoleAppDiccionario.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\bin\Debug\net10.0\ConsoleAppDiccionario.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\refint\ConsoleAppDiccionario.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleAppDiccionario.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ref\ConsoleAppDiccionario.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppDiccionario\ConsoleAppDiccionario\obj\Debug\net10.0\ConsoleA.E8636C34.Up2Date
