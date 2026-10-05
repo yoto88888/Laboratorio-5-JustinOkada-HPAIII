@@ -1,6 +1,6 @@
 # Laboratorio-5-JustinOkada-HPAIII
 
-# 🖥️ Fundamentos de C# - Aplicaciones de Consola & Algoritmos
+# 🖥️ Consultas y Métodos 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -17,6 +17,24 @@ El proyecto destaca por su interactividad mediante la línea de comandos, permit
 - **Algoritmos Recursivos:** Resolución de problemas matemáticos, como el cálculo del factorial de un número, demostrando el uso correcto de casos base y llamadas recursivas.
 - **Análisis de Frecuencias:** Uso de colecciones avanzadas (`Dictionary<char, int>`) para procesar cadenas de texto y contabilizar la repetición de caracteres.
 - **Conexión Segura a MySQL:** Integración de la consola con una base de datos utilizando comandos parametrizados para evitar inyecciones SQL durante las pruebas de inserción y actualización.
+
+## Capturas para los Problemas
+- **Consulta 1**
+- <img width="373" height="409" alt="Screenshot 2026-10-05 102834" src="https://github.com/user-attachments/assets/14400581-db16-4f5e-96be-ec4058ea10f1" />
+- **Consulta 2**
+- <img width="313" height="330" alt="Screenshot 2026-10-05 102851" src="https://github.com/user-attachments/assets/8cae424a-090d-4024-8dee-c5eabe073848" />
+- **Consulta 3**
+- <img width="524" height="333" alt="Screenshot 2026-10-05 102859" src="https://github.com/user-attachments/assets/e1023fba-8955-4c42-b3a3-2fdb9ac48ada" />
+- **Problema 2 Cadenas**
+- <img width="942" height="184" alt="Screenshot 2026-10-05 110739" src="https://github.com/user-attachments/assets/99365368-d10a-44ed-ac25-8c198af0f71e" />
+- **Problema 3 Metodos Sobrecargados**
+- <img width="565" height="323" alt="Screenshot 2026-10-05 110840" src="https://github.com/user-attachments/assets/45329f1b-62ed-4ebb-8ec6-d517fdf2471f" />
+- **Problema 4 Recursividad Factorial**
+- <img width="587" height="406" alt="Screenshot 2026-10-05 110822" src="https://github.com/user-attachments/assets/4c9cfa74-f0d9-48c6-892b-c94a701e4187" />
+- **Problema 5 Frecuencia**
+- <img width="1109" height="383" alt="Screenshot 2026-10-05 110804" src="https://github.com/user-attachments/assets/3ac10472-2cf0-445f-8867-4e2c04855b36" />
+
+
 
 ## 🛠️ Tecnologías y Herramientas
 
