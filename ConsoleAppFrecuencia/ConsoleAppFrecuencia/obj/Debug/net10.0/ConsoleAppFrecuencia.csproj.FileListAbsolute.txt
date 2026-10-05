@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\bin\Debug\net10.0\ConsoleAppFrecuencia.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\bin\Debug\net10.0\ConsoleAppFrecuencia.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\bin\Debug\net10.0\ConsoleAppFrecuencia.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\bin\Debug\net10.0\ConsoleAppFrecuencia.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\bin\Debug\net10.0\ConsoleAppFrecuencia.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\refint\ConsoleAppFrecuencia.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleAppFrecuencia.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ref\ConsoleAppFrecuencia.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\ConsoleAppFrecuencia\ConsoleAppFrecuencia\obj\Debug\net10.0\ConsoleA.AF8A8455.Up2Date
